@@ -1,0 +1,72 @@
+body{
+  background-color: gray;
+  text-align: center;
+}
+
+h1{
+  text-align: center;
+  font-family: 'Press Start 2P', cursive;
+  font-size: 50px;
+  letter-spacing: 8px;
+  margin-bottom: 30px;
+}
+
+ul{
+  padding: 0;
+}
+
+li{
+  display: inline-block;
+  width: 3rem;
+  font-size: 20px;
+  text-transform: uppercase;
+  cursor: pointer;
+}
+
+.btn{
+  margin: 10px;
+  text-align: center;
+  height: 50px;
+  width: 50px;
+}
+
+#buttons{
+  margin-bottom: 30px;
+}
+
+#question{
+  margin-top: 15%
+}
+
+.middle{
+  margin: 50px;
+  height: 60%;
+}
+
+.container-fluid{
+  width: 80%;
+  text-align: center;
+}
+
+.row{
+  font-size: 50px;
+}
+
+.letters{
+  background-color: ivory;
+  user-select: none;
+  border-radius: 10%;
+  margin: 20px;
+  height: 70px;
+  width: 70px;
+  font-size: 45px;
+  text-transform: uppercase;
+}
+
+.lettercolor {
+  color: ivory;
+}
+
+.lose{
+  background-color: red;
+}
